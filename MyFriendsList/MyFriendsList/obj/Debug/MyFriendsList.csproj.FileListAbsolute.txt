@@ -1,0 +1,10 @@
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\bin\Debug\MyFriendsList.exe.config
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\bin\Debug\MyFriendsList.exe
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\bin\Debug\MyFriendsList.pdb
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\obj\Debug\MyFriendsList.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\obj\Debug\MyFriendsList.Form1.resources
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\obj\Debug\MyFriendsList.Properties.Resources.resources
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\obj\Debug\MyFriendsList.csproj.GenerateResource.cache
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\obj\Debug\MyFriendsList.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\obj\Debug\MyFriendsList.exe
+C:\Users\mqsor\Desktop\github\cshrap\MyFriendsList\MyFriendsList\obj\Debug\MyFriendsList.pdb
