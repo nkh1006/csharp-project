@@ -1,0 +1,10 @@
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\bin\Debug\mssql-connect.exe.config
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\bin\Debug\mssql-connect.exe
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\bin\Debug\mssql-connect.pdb
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\obj\Debug\mssql-connect.csprojAssemblyReference.cache
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\obj\Debug\mssql_connect.Form1.resources
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\obj\Debug\mssql_connect.Properties.Resources.resources
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\obj\Debug\mssql-connect.csproj.GenerateResource.cache
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\obj\Debug\mssql-connect.csproj.CoreCompileInputs.cache
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\obj\Debug\mssql-connect.exe
+C:\Users\mqsor\Desktop\project\c#\mssql-connect\mssql-connect\obj\Debug\mssql-connect.pdb
